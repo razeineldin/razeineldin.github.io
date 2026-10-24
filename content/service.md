@@ -6,14 +6,25 @@ date: 2025-09-30
 I actively contribute to the academic and scientific community through various roles.
 
 ### Peer Review
-* [cite_start]**Journals:** MedIA, Journal of Medical Systems, IEEE JBHI, IEEE Access, Nature Scientific Reports, BMC Medical Imaging [cite: 20]
-* [cite_start]**Conferences:** MICCAI, CURAC, CARS, IJCARS [cite: 20]
+* **Journals:** Medical Image Analysis (MedIA), Journal of Medical Systems, IEEE JBHI, IEEE Access, Scientific Reports, BMC Medical Imaging, at – Automatisierungstechnik
+* **Conferences:** MICCAI, CURAC, CARS, IJCARS
 
 ### Conference Organization
-* [cite_start]**Organizer**, AI in Biomedical Engineering Conference, FAU, Erlangen (2023) [cite: 20]
-* [cite_start]**Organizer**, CURAC 2019, Reutlingen (2019) [cite: 20]
+* **Co-organizer**, AI in Biomedical Engineering Conference, FAU Erlangen (Sep–Nov 2023)
+* **Co-organizer**, CURAC 2019, Reutlingen (Sep 2019)
 
-### Mentorship & Community Leadership
-* [cite_start]**Fellow**, CaMed, Reutlingen University (Nov 2023–Today) [cite: 20]
-* [cite_start]**Alumni and Mentor**, AlumNode, the Klaus Tschira Stiftung (KTS) (Oct 2022–Today) [cite: 20]
-* [cite_start]**Co-founder**, Computer Vision and Biometrics Lab & Printed Circuit Board (PCB) Lab, Menoufia University (2018) [cite: 20]
+### Mentorship & Community
+* **Fellow and Mentor**, CaMed, Reutlingen University (2023–present)
+* **Alumni and Mentor**, AlumNode, Klaus Tschira Stiftung (2022–present)
+* **Alumni**, DAAD (2023–present)
+* **Co-founder**, Computer Vision & Biometrics Lab and Printed Circuit Board (PCB) Lab, Menoufia University (2018)
+* **Instructor & Judge**, FEE Robotics Club, Menoufia University (2016–2018)
+* **Instructor & Mentor**, IEEE From School to College (STC), Menoufia University (2015–2016)
+* **Mentor & Supervisor**, Embedded Systems Foundation, Menoufia University (2014–2016)
+
+### Memberships
+* Medical Image Computing and Computer Assisted Intervention (MICCAI) Society (2020–present)
+* Computer Assisted Radiology and Surgery (CARS) (2020–present)
+* IEEE (2019–present)
+* Engineering Syndicate of Egypt (2013–present)
+* Past: ACM (2023–2024), CURAC (2019–2023), German Informatics Society (GI) (2020–2023), IEEE EMBS (2020–2023)

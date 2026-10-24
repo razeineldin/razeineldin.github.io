@@ -1,0 +1,24 @@
+---
+title: "DeepSeg: deep neural network framework for automatic brain tumor segmentation using magnetic resonance FLAIR images"
+authors:
+  - "admin"
+  - "M. E. Karar"
+  - "J. Coburger"
+  - "C. Wirtz"
+  - "Oliver Burgert"
+date: '2020-04-26'
+publishDate: '2020-04-26'
+publication_types: ["article-journal"]
+publication: "*International Journal of Computer Assisted Radiology and Surgery*, 15"
+abstract: "Purpose Gliomas are the most common and aggressive type of brain tumors due to their infiltrative nature and rapid progression. The process of distinguishing tumor boundaries from healthy cells is still a challenging task in the clinical routine. Fluid-attenuated inversion recovery (FLAIR) MRI modality can provide the physician with information about tumor infiltration. Therefore, this paper proposes a new generic deep learning architecture, namely DeepSeg, for fully automated detection and segmentation of the brain lesion using FLAIR MRI data. Methods The developed DeepSeg is a modular decoupling framework. It consists of two connected core parts based on an encoding and decoding relationship. The encoder part is a convolutional neural network (CNN) responsible for spatial information extraction. The resulting semantic map is inserted into the decoder part to get the full-resolution probability map. Based on modified U-Net architecture, different CNN models such as residual neural network (ResNet), dense convolutional network (DenseNet), and NASNet have been utilized in this study. Results The proposed deep learning architectures have been successfully tested and evaluated on-line based on MRI datasets of brain tumor segmentation (BraTS 2019) challenge, including s336 cases as training data and 125 cases for validation data. The dice and Hausdorff distance scores of obtained segmentation results are about 0.81 to 0.84 and 9.8 to 19.7 correspondingly. Conclusion This study showed successful feasibility and comparative performance of applying different deep learning models in a new DeepSeg framework for automated brain tumor segmentation in FLAIR MR images. The proposed DeepSeg is open source and freely available at https://github.com/razeineldin/DeepSeg/ ."
+featured: true
+hugoblox:
+  ids:
+    doi: "10.1007/s11548-020-02186-z"
+    arxiv: "2004.12333"
+links:
+  - type: pdf
+    url: "https://arxiv.org/pdf/2004.12333"
+  - type: code
+    url: "https://github.com/razeineldin/DeepSeg"
+---
