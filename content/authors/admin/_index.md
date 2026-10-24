@@ -1,13 +1,16 @@
 ---
 # Display name
-title: Dr.-Ing. [cite_start]Ramy Ashraf Zeineldin [cite: 2]
+title: Ramy A. Zeineldin
+
+# Name pronunciation (optional)
+name_pronunciation: ''
 
 # Full name (for SEO)
-[cite_start]first_name: Ramy [cite: 2]
-[cite_start]last_name: Zeineldin [cite: 2]
+first_name: Ramy
+last_name: Zeineldin
 
 # Pronouns (optional)
-[cite_start]pronouns: he/him [cite: 3]
+pronouns: he/him
 
 # Status emoji
 status:
@@ -20,147 +23,188 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-[cite_start]role: Assistant Professor of Computer Science and Engineering [cite: 12]
+role: Assistant Professor of Computer Science and Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - [cite_start]name: Menoufia University [cite: 12]
-    url: 'https://www.menofia.edu.eg/fee/Home/en'
-  - [cite_start]name: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) [cite: 12]
-    url: 'https://www.fau.eu/'
+  - name: Menoufia University
+    url: https://www.menofia.edu.eg/fee/Home/en
 
 # Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    [cite_start]url: 'mailto:ramy.zeineldin@daad-alumni.de' [cite: 6]
+    url: 'mailto:ramy.zeineldin@ieee.org'
     label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=am3IeUYAAAAJ
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/rashrafzein
   - icon: brands/github
     url: https://github.com/razeineldin
-  - icon: brands/linkedin
-    [cite_start]url: https://www.linkedin.com/in/rashrafzein [cite: 8]
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/citations?user=your-user-id
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/your-orcid-id
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-8630-9046
+  - icon: academicons/semantic-scholar
+    url: https://www.semanticscholar.org/author/1410139422
 
 interests:
-  - [cite_start]Artificial Intelligence [cite: 10]
-  - [cite_start]Medical Robotics [cite: 10]
-  - [cite_start]Medical Image Analysis [cite: 10]
-  - [cite_start]Computer Vision [cite: 10]
-  - [cite_start]Embedded Systems [cite: 10]
+  - Artificial Intelligence
+  - Computer Vision
+  - Medical Image Analysis
+  - Surgical Robotics
 
 education:
-  - area: Dr.-Ing. [cite_start]Medical Computer Science [cite: 12]
-    [cite_start]institution: Karlsruhe Institute of Technology (KIT), Germany [cite: 12]
-    [cite_start]date_start: 2019-04-01 [cite: 12]
-    [cite_start]date_end: 2023-02-01 [cite: 12]
+  - area: Dr.-Ing. in Medical Computer Science
+    institution: Health Robotics and Automation (HERA), Karlsruhe Institute of Technology (KIT), Germany
+    date_start: 2019-04-01
+    date_end: 2023-02-28
     summary: |
-      [cite_start]Thesis: “Deep Multimodality Image-Guided System for Assisting Neurosurgery.” [cite: 12]
-      [cite_start]Advisors: Prof. Dr. Franziska Mathis-Ullrich, Prof. Dr. Oliver Burgert. [cite: 12]
-      [cite_start]Awarded Best Doctoral Dissertation by the Erika und Dr. Wolfgang Eichelberger-Stiftung. [cite: 18]
-  - [cite_start]area: M.Sc. in Computer Vision and Artificial Intelligence [cite: 12]
-    [cite_start]institution: Menoufia University, Egypt [cite: 12]
-    [cite_start]date_start: 2013-10-01 [cite: 12]
-    [cite_start]date_end: 2018-01-01 [cite: 12]
-  - [cite_start]area: B.Sc. in Computer Science and Engineering [cite: 12]
-    [cite_start]institution: Menoufia University, Egypt [cite: 12]
-    [cite_start]date_start: 2008-09-01 [cite: 12]
-    [cite_start]date_end: 2013-07-01 [cite: 12]
+      Thesis: _Deep Multimodality Image-Guided System for Assisting Neurosurgery_.
+      Advisors: Prof. Dr. Franziska Mathis-Ullrich and Prof. Dr. Oliver Burgert.
+      Awarded Best Doctoral Dissertation by the Erika und Dr. Wolfgang Eichelberger-Stiftung.
+  - area: M.Sc. in Computer Vision and Artificial Intelligence
+    institution: Menoufia University, Egypt
+    date_start: 2013-10-01
+    date_end: 2018-01-31
+  - area: B.Sc. in Computer Science and Engineering
+    institution: Menoufia University, Egypt
+    date_start: 2008-09-01
+    date_end: 2013-07-31
     summary: |
-      [cite_start]Graduated with 1st Rank in the department. [cite: 18]
+      Graduated with 1st rank in the department.
 
 work:
-  - [cite_start]position: Assistant Professor [cite: 12]
-    [cite_start]company_name: Menoufia University [cite: 12]
-    company_url: ''
-    [cite_start]date_start: 2024-01-01 [cite: 12]
+  - position: Assistant Professor
+    company_name: Menoufia University
+    company_url: https://www.menofia.edu.eg/fee/Home/en
+    company_logo: ''
+    date_start: 2024-01-01
     date_end: ''
     summary: |
-      [cite_start]Leading teaching and research activities in the Computer Science and Engineering Department. [cite: 12]
-  - [cite_start]position: Postdoctoral Researcher [cite: 12]
-    [cite_start]company_name: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) [cite: 12]
-    company_url: ''
-    [cite_start]date_start: 2023-06-01 [cite: 12]
-    [cite_start]date_end: 2025-05-01 [cite: 12]
+      Computer Science and Engineering Department, Faculty of Electronic Engineering. Teaching and research in AI for medicine.
+  - position: Postdoctoral Researcher
+    company_name: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+    company_url: https://www.fau.eu/
+    company_logo: ''
+    date_start: 2023-06-01
+    date_end: 2025-05-31
     summary: |
-      [cite_start]Conducted research on Artificial Intelligence in Biomedical Applications. [cite: 12]
-  - [cite_start]position: Visiting Researcher [cite: 12]
-    [cite_start]company_name: Reutlingen University [cite: 12]
-    company_url: ''
-    [cite_start]date_start: 2019-04-01 [cite: 12]
-    [cite_start]date_end: 2023-05-01 [cite: 12]
+      SPARC Lab, Artificial Intelligence in Biomedical Engineering (AIBE). AI and AR for medical applications; medical and surgical robotics.
+  - position: Postdoctoral Researcher
+    company_name: Reutlingen University
+    company_url: https://www.reutlingen-university.de/
+    company_logo: ''
+    date_start: 2023-03-01
+    date_end: 2023-05-31
     summary: |
-      [cite_start]Member of the Computer Assisted Medicine research group (CaMed). [cite: 12]
-  - [cite_start]position: Co-founder, R&D Engineer [cite: 16]
-    [cite_start]company_name: Mubser, LLC [cite: 16]
-    company_url: ''
-    [cite_start]date_start: 2012-09-01 [cite: 16]
-    [cite_start]date_end: 2015-01-01 [cite: 16]
+      Computer Assisted Medicine research group (CaMed). Computational imaging and AI for medical applications.
+  - position: Assistant Lecturer / Teaching Assistant
+    company_name: Menoufia University
+    company_url: https://www.menofia.edu.eg/fee/Home/en
+    company_logo: ''
+    date_start: 2013-11-01
+    date_end: 2018-11-30
     summary: |
-      Co-founded a startup focused on assistive technology. [cite_start]Finalist in the MIT Enterprise Forum, Pan Arab Region. [cite: 18]
+      Taught digital logic, C++, computer architecture, microcontrollers, VHDL/FPGA design and computer networks. Co-founded the Computer Vision & Biometrics Lab and the PCB Lab.
+  - position: Co-founder, R&D Engineer
+    company_name: Mubser, LLC
+    company_url: ''
+    company_logo: ''
+    date_start: 2012-09-01
+    date_end: 2015-01-31
+    summary: |
+      Assistive technology for the visually impaired. Finalist in the MIT Enterprise Forum, Pan Arab Region.
 
 # Skills
+# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - [cite_start]name: Python, C/C++, MATLAB [cite: 24]
+      - name: Python, C/C++, MATLAB
         description: ''
         percent: 95
         icon: code-bracket
-      - [cite_start]name: PyTorch & TensorFlow [cite: 24]
+      - name: PyTorch, TensorFlow, MONAI
         description: ''
         percent: 90
         icon: chart-bar
-      - [cite_start]name: MONAI, OpenCV, ROS [cite: 24]
+      - name: OpenCV, PCL, ROS
         description: ''
         percent: 85
         icon: camera
-  - name: Languages
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - [cite_start]name: Arabic (Native) [cite: 24]
+      - name: Embedded Systems & FPGA
         description: ''
-        percent: 100
-        icon: globe-alt
-      - [cite_start]name: English (Advanced C1) [cite: 24]
-        description: ''
-        percent: 90
-        icon: globe-alt
-      - [cite_start]name: German (Proficient B2) [cite: 24]
-        description: ''
-        percent: 75
-        icon: globe-alt
+        percent: 80
+        icon: cpu-chip
+
+languages:
+  - name: Arabic
+    percent: 100
+  - name: English (C1)
+    percent: 90
+  - name: German (B2)
+    percent: 75
 
 # Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
 awards:
-  - [cite_start]title: Best Doctoral Dissertation [cite: 18]
+  - title: Best Doctoral Dissertation
     url: ''
-    [cite_start]date: '2024-07-01' [cite: 18]
-    [cite_start]awarder: Erika und Dr. Wolfgang Eichelberger-Stiftung, KIT [cite: 18]
+    date: '2024-07-01'
+    awarder: Erika und Dr. Wolfgang Eichelberger-Stiftung, KIT
     icon: hero/academic-cap
     summary: ''
-  - [cite_start]title: Winner, Brain Tumor Segmentation (BraTS) 2022 Challenge [cite: 18]
+  - title: Finalist, Medical Valley Award 2024
     url: ''
-    [cite_start]date: '2022-09-01' [cite: 18]
-    [cite_start]awarder: MICCAI [cite: 18]
+    date: '2024-05-01'
+    awarder: Bavarian State Ministry of Economic Affairs, Regional Development and Energy
+    icon: hero/light-bulb
+    summary: ''
+  - title: Finalist, Blanc & Fischer Innovationspreis 2023
+    url: ''
+    date: '2023-11-01'
+    awarder: KIT
+    icon: hero/light-bulb
+    summary: ''
+  - title: Young Researcher, Heidelberg Laureate Forum
+    url: https://www.heidelberg-laureate-forum.org/
+    date: '2023-09-01'
+    awarder: HLF (also selected in 2020)
+    icon: hero/star
+    summary: 'Selected among the top 200 young researchers worldwide.'
+  - title: Winner, Brain Tumor Segmentation (BraTS) 2022 Challenge
+    url: ''
+    date: '2022-09-01'
+    awarder: MICCAI, Singapore
     icon: hero/trophy
-    [cite_start]summary: 'Placed first among more than 1000 international teams and corporations.' [cite: 18]
-  - [cite_start]title: German Academic Exchange Service (DAAD) Scholarship [cite: 18]
-    url: 'https://www.daad.de/en/'
-    [cite_start]date: '2018-04-01' [cite: 18]
-    [cite_start]awarder: DAAD [cite: 18]
-    icon: hero/currency-dollar
-    [cite_start]summary: 'Full scholarship holder for doctoral studies in Germany from April 2018 to March 2023.' [cite: 18]
-  - [cite_start]title: Winner, Idea to Product Global Competition [cite: 18]
+    summary: 'First place among more than 1000 international teams and companies, including Nvidia and Google.'
+  - title: Top-5 Method, BraTS-Reg 2022 Challenge
     url: ''
-    [cite_start]date: '2013-11-01' [cite: 18]
-    [cite_start]awarder: Sao Paulo, Brazil [cite: 18]
+    date: '2022-09-01'
+    awarder: MICCAI, Singapore
+    icon: hero/trophy
+    summary: ''
+  - title: Best Poster Award
+    url: ''
+    date: '2020-09-01'
+    awarder: CURAC 2020, Hamburg
+    icon: hero/star
+    summary: ''
+  - title: DAAD Doctoral Scholarship
+    url: https://www.daad.de/en/
+    date: '2018-04-01'
+    awarder: German Academic Exchange Service (DAAD)
+    icon: hero/currency-dollar
+    summary: 'Full scholarship for doctoral studies in Germany, April 2018 to March 2023.'
+  - title: Winner, Idea to Product Global Competition
+    url: ''
+    date: '2013-11-01'
+    awarder: São Paulo, Brazil
     icon: hero/rocket-launch
     summary: ''
 ---
 
-Dr. Ramy Zeineldin is an Assistant Professor at Menoufia University, specializing in the application of AI and computer vision to solve complex challenges in medicine. His research focuses on medical robotics and image analysis, with the goal of creating intelligent systems that enhance surgical procedures.
+Ramy Zeineldin is an Assistant Professor of Computer Science and Engineering at Menoufia University, Egypt. His research applies artificial intelligence and computer vision to medicine, with a focus on medical image analysis and image-guided, robot-assisted surgery.
 
-He earned his Dr.-Ing. in Medical Computer Science from the Karlsruhe Institute of Technology (KIT), where his dissertation received the Best Doctoral Dissertation award. He is also a winner of the prestigious MICCAI BraTS Challenge for brain tumor segmentation and a recipient of the DAAD scholarship for his doctoral studies in Germany.
+He earned his Dr.-Ing. in Medical Computer Science from the Karlsruhe Institute of Technology (KIT), where his dissertation on deep multimodal image guidance for neurosurgery received the Best Doctoral Dissertation award. Before returning to Menoufia, he was a postdoctoral researcher at FAU Erlangen-Nürnberg and Reutlingen University. His brain tumor segmentation method won first place in the MICCAI BraTS 2022 challenge.
